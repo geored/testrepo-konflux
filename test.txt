@@ -1,0 +1,1 @@
+Testing Konflux pipeline on minikube
